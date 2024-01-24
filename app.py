@@ -8,6 +8,6 @@ def hello_world( ):
 
   return 'OGMaster'
 
-if name == "main":
+if __name___ == "__main__":
 
-  app.run ()
+  app.run()
