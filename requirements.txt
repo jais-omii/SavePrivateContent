@@ -6,3 +6,5 @@ cryptg
 tgcrypto
 pyrogram
 python-decouple
+Flask==2.2.2
+aiohttp
